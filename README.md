@@ -16,13 +16,13 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
 LIRI takes in the following commands:
 
-    - [concert-this] : Takes in artist name and returns concert data from Bands In Town API.
+- `concert-this` : Takes in artist name and returns concert data from Bands In Town API.
 
-    - [spotify-this-song] : Takes in song name and returns song information from Spotify API.
+- `spotify-this-song` : Takes in song name and returns song information from Spotify API.
 
-    - [movie-this] : Takes in movie name and reutrns movie information from OMDB API.
+- `movie-this` : Takes in movie name and reutrns movie information from OMDB API.
 
-    - [do-what-it-says] : Reads [random.txt] file and executes the containing command.
+- `do-what-it-says` : Reads `random.txt` file and executes the containing command.
 
 ### Instructions
 
@@ -32,27 +32,27 @@ LIRI takes in the following commands:
 
 3. Navigate to folder containing `liri.js` in the terminal.
 
-4. To use [concert-this]:
+4. To use `concert-this`:
 
-   - Enter [node liri.js concert-this <band name here>]
+   - Enter `node liri.js concert-this <band name here>`
 
    - Example: ![concert-this](concert-this.PNG)
 
-5. To use [spotify-this-song]:
+5. To use `spotify-this-song`:
 
-   - Enter [node liri.js spotify-this-song <song name here>]
+   - Enter `node liri.js spotify-this-song <song name here>`
 
    - Example: ![spotify-this](spotify-this.PNG)
 
-6. To use [movie-this]:
+6. To use `movie-this`:
 
-   - Enter [node liri.js movie-this <movie name here>]
+   - Enter `node liri.js movie-this <movie name here>`
 
    - Example: ![movie-this](movie-this.PNG)
 
-7. To use [do-what-it-says]:
+7. To use `do-what-it-says`:
 
-   - Enter [node liri.js do-what-it-says]
+   - Enter `node liri.js do-what-it-says`
 
    - Example: ![do-this](do-this.PNG)
 
@@ -60,22 +60,22 @@ LIRI takes in the following commands:
 
 ### Technologies Used
 
-    - JavaScript
+- JavaScript
 
-    - Node.js
+- Node.js
 
-    - Node-Spotify-API
+- Node-Spotify-API
 
-    - Bands In Town API
+- Bands In Town API
 
-    - OMDB API
+- OMDB API
 
-    - Axios
+- Axios
 
-    - Moment.js
+- Moment.js
 
-    - DotEnv
+- DotEnv
 
-    - npm
+- npm
 
-    - GitHub
+- GitHub
