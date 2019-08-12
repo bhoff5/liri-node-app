@@ -36,27 +36,35 @@ LIRI takes in the following commands:
 
    - Enter `node liri.js concert-this <band name here>`
 
-   - Example: ![concert-this](concert-this.PNG)
+   - Example:
+
+![concert-this](concert-this.PNG)
 
 5. To use `spotify-this-song`:
 
    - Enter `node liri.js spotify-this-song <song name here>`
 
-   - Example: ![spotify-this](spotify-this.PNG)
+   - Example:
+
+![spotify-this](spotify-this.PNG)
 
 6. To use `movie-this`:
 
    - Enter `node liri.js movie-this <movie name here>`
 
-   - Example: ![movie-this](movie-this.PNG)
+   - Example:
+
+![movie-this](movie-this.PNG)
 
 7. To use `do-what-it-says`:
 
    - Enter `node liri.js do-what-it-says`
 
-   - Example: ![do-this](do-this.PNG)
+   - Example:
 
-   - Update random.txt file to change search parameters.
+![do-this](do-this.PNG)
+
+- Update random.txt file to change search parameters.
 
 ### Technologies Used
 
